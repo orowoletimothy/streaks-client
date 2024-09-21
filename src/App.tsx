@@ -1,9 +1,9 @@
-
+import AppRoutes from "@/Routes";
 
 function App() {
 
   return (
-    <div className="app">App</div>
+    <div className="app"><AppRoutes /></div>
   )
 }
 
